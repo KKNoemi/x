@@ -1,0 +1,8 @@
+img {
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px black;
+    display: none;
+}
+body {
+    text-align: center;
+}
